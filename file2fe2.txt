@@ -1,0 +1,1 @@
+git checkout is the command to change to move to another branch
